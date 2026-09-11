@@ -1,0 +1,122 @@
+Country,Abbrev,Corruption,Peace,Legal,GDP Growth
+Albania,AL,35,1.821,4.546,2.983
+Algeria,DZ,35,2.219,4.435,2.553
+Argentina,AR,45,1.989,5.087,-3.061
+Armenia,AM,42,2.294,4.812,6
+Australia,AU,77,1.419,8.363,1.713
+Austria,AT,77,1.291,8.089,1.605
+Azerbaijan,AZ,30,2.425,5.12,2.7
+Bahrain,BH,42,2.357,6.195,1.982
+Bangladesh,BD,26,2.128,3.313,7.792
+Belgium,BE,75,1.533,7.669,1.214
+Benin,BJ,41,1.986,4.525,6.551
+Bolivia,BO,31,2.044,3.93,3.9
+Bosnia and Herzegovina,BA,36,2.019,4.419,2.8
+Botswana,BW,61,1.676,5.963,3.48
+Brazil,BR,35,2.271,5.564,0.875
+Bulgaria,BG,43,1.607,5.569,3.7
+Burundi,BI,19,2.52,3.798,0.419
+Cameroon,CM,25,2.538,4.307,3.995
+Canada,CA,77,1.327,8.264,1.545
+Chad,TD,20,2.522,3.886,2.284
+Chile,CL,67,1.634,6.88,2.515
+China,CN,41,2.217,6.033,6.139
+Colombia,CO,37,2.661,5.559,3.356
+Costa Rica,CR,56,1.706,6.488,2.025
+Croatia,HR,47,1.645,5.162,3.032
+Cyprus,CY,58,1.805,6.407,3.11
+Czech Republic,CZ,56,1.383,7.029,2.45
+Democratic Republic of Congo,CD,18,3.218,3.545,4.291
+Denmark,DK,87,1.316,8.174,1.698
+Dominican Republic,DO,55,2.041,4.894,4.99
+Ecuador,EC,38,1.98,4.803,-0.483
+Egypt,EG,35,2.521,5.281,5.516
+El Salvador,SV,34,2.262,4.707,2.5
+Estonia,EE,74,1.727,7.173,3.2
+Ethiopia,ET,37,2.434,4.392,7.44
+Finland,FI,86,1.488,8.712,1.244
+France,FR,69,1.892,7.384,1.249
+Gabon,GA,31,2.112,4.694,2.941
+Georgia,GE,56,2.122,5.247,4.641
+Germany,DE,80,1.547,7.85,0.544
+Ghana,GH,41,1.796,5.748,7.457
+Greece,GR,48,1.933,5.207,1.981
+Guatemala,GT,26,2.264,5.013,3.354
+Honduras,HN,26,2.341,4.835,3.36
+Hungary,HU,44,1.54,6.218,4.6
+Iceland,IS,78,1.072,7.565,0.822
+India,IN,41,2.605,5.82,6.124
+Indonesia,ID,40,1.785,5.405,5.037
+Iran,IR,26,2.542,4.578,-9.459
+Ireland,IE,74,1.39,7.612,4.254
+Israel,IL,60,2.735,7.181,3.132
+Italy,IT,53,1.754,6.126,0.011
+Jamaica,JM,43,2.038,5.999,1.057
+Japan,JP,73,1.369,8.323,0.891
+Jordan,JO,48,2.012,6.181,2.2
+Kazakhstan,KZ,34,1.932,4.855,3.819
+Kenya,KE,28,2.3,5.147,5.597
+Korea (South),KI,59,1.867,6.621,1.954
+Kuwait,KW,40,1.794,5.57,0.585
+Latvia,LV,56,1.718,5.936,2.836
+Lebanon,LB,28,2.8,4.386,0.2
+Liberia,LR,28,1.889,4.652,0.44
+Lithuania,LT,60,1.779,6.46,3.405
+Madagascar,MG,24,1.867,4.064,5.222
+Malawi,MW,31,1.728,4.785,4.5
+Malaysia,MY,53,1.529,6.623,4.5
+Mali,ML,29,2.71,4.568,5.04
+Mauritania,MR,28,2.333,4.172,6.628
+Mauritius,MU,52,1.606,6.297,3.675
+Mexico,MX,29,2.6,5.228,0.396
+Moldova,FM,32,1.951,4.221,3.5
+Montenegro,ME,45,1.939,4.817,2.989
+Morocco,MA,41,2.07,5.762,2.657
+Mozambique,MZ,26,2.099,4.387,1.8
+Nepal,NP,34,2.003,4.842,7.051
+Netherlands,NL,82,1.53,8.273,1.765
+New Zealand,NZ,87,1.221,8.514,2.506
+Nicaragua,NI,22,2.312,4.337,-5.039
+Nigeria,NG,26,2.898,3.787,2.288
+Norway,NO,84,1.536,8.279,1.932
+Oman,OM,52,1.953,6.729,0.036
+Pakistan,PK,32,3.072,3.874,3.294
+Panama,PA,36,1.804,5.687,4.308
+Paraguay,PY,28,2.055,4.569,1.008
+Peru,PE,36,2.016,5.139,2.595
+Philippines,PH,34,2.516,5.309,5.718
+Poland,PL,58,1.654,5.996,4.026
+Portugal,PT,62,1.274,6.976,1.913
+Qatar,QA,62,1.696,6.923,1.969
+Romania,RO,44,1.562,6.028,4
+Russia,RU,28,3.093,4.989,1.084
+Rwanda,RW,53,2.014,6.265,7.8
+Saudi Arabia,SA,53,2.409,6.278,0.167
+Senegal,SN,45,1.883,5.132,6.049
+Serbia,RS,39,1.812,4.785,3.498
+Sierra Leone,SL,33,1.822,4.86,4.998
+Singapore,SG,85,1.347,8.462,0.546
+Slovakia,SK,50,1.55,6.386,2.6
+Slovenia,SI,60,1.355,6.102,2.936
+South Africa,ZA,44,2.399,6.071,0.655
+Spain,ES,62,1.699,6.452,2.175
+Sri Lanka,LK,38,1.986,5.163,2.72
+Sweden,SE,85,1.533,8.28,0.936
+Switzerland,CH,85,1.375,8.571,0.761
+Taiwan,SY,65,1.725,7.306,2.035
+Tanzania,TZ,37,1.86,5.192,5.2
+Thailand,TH,36,2.278,5.455,2.871
+The FYR of Macedonia,MK,35,1.933,4.703,3.151
+Trinidad and Tobago,TT,40,2.094,5.816,0.006
+Tunisia,TN,43,2.035,5.142,1.514
+Turkey,TR,39,3.015,5.262,0.249
+Uganda,UG,28,2.196,5.052,6.156
+Ukraine,UA,30,2.95,4.432,2.99
+United Arab Emirates,AE,71,1.847,7.348,1.56
+United Kingdom,GB,77,1.801,8.044,1.235
+United States,US,69,2.401,8.202,2.35
+Uruguay,UY,71,1.711,6.329,0.4
+Vietnam,VI,37,1.877,5.084,6.5
+Yemen,YE,15,3.369,2.671,2.113
+Zambia,ZM,34,1.805,4.592,2.021
+Zimbabwe,ZW,24,2.463,3.738,-7.077
